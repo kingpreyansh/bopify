@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_auth.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_choose_type.xml" value="0.40729166666666666" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_customer.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_login.xml" value="0.3353846153846154" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_main.xml" value="0.42135416666666664" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_register_user.xml" value="0.5" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/activity_store.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/content_store.xml" value="0.32666666666666666" />
+        <entry key="..\:/Users/Tegh/AndroidStudioProjects/B07-Project/app/src/main/res/layout/fragment_home.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/activity_add_item.xml" value="0.29908198299873556" />
+        <entry key="app/src/main/res/layout/activity_check_order.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_choose_type.xml" value="0.27155423245568566" />
+        <entry key="app/src/main/res/layout/activity_customer.xml" value="0.330642276709732" />
+        <entry key="app/src/main/res/layout/activity_customer_store_visit.xml" value="0.42108914658087615" />
+        <entry key="app/src/main/res/layout/activity_edit_item.xml" value="0.3743451903906648" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3164175993838127" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/layout/activity_register_user.xml" value="0.3123869147964963" />
+        <entry key="app/src/main/res/layout/activity_store.xml" value="0.24645903051023405" />
+        <entry key="app/src/main/res/layout/activity_view_cart.xml" value="0.2217708789821472" />
+        <entry key="app/src/main/res/layout/activity_view_items.xml" value="0.25133094970227093" />
+        <entry key="app/src/main/res/layout/activity_view_orders.xml" value="0.4478442280945758" />
+        <entry key="app/src/main/res/layout/add_item.xml" value="0.25737456941473164" />
+        <entry key="app/src/main/res/layout/fragment_view_items.xml" value="0.31450747381727445" />
+        <entry key="app/src/main/res/layout/fragment_view_orders.xml" value="0.3372607026946587" />
+        <entry key="app/src/main/res/layout/item_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_list_cart.xml" value="0.5054281014563009" />
+        <entry key="app/src/main/res/layout/item_list_customer.xml" value="0.3568130037891239" />
+        <entry key="app/src/main/res/layout/items_list_customer.xml" value="1.9405346939469328" />
+        <entry key="app/src/main/res/layout/items_owner.xml" value="0.4098992848929235" />
+        <entry key="app/src/main/res/layout/nav_bar_owner.xml" value="0.3015277780413297" />
+        <entry key="app/src/main/res/layout/order_list_item.xml" value="0.4827721386046209" />
+        <entry key="app/src/main/res/layout/orderitem_list_item.xml" value="0.4608241487164261" />
+        <entry key="app/src/main/res/layout/sample_my_view.xml" value="0.32135416666666666" />
+        <entry key="app/src/main/res/layout/store_list_item.xml" value="0.3699419687354027" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
